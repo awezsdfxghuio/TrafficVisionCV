@@ -1,0 +1,6 @@
+# Предварительный список зависимостей для проекта «TrafficVisionCV»
+
+opencv-python
+ultralytics
+streamlit
+numpy
